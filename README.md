@@ -77,6 +77,5 @@ You can find the explained algorithms in my explanatory notebook.
 
 MPT allows investors to construct optimal portfolios with respect to their willingness to trade-off between risk and expected returns. An optimal portfolio is a portfolio that provides the greatest expected return for the lowest amount of risk. You can see what is called the efficient frontier below.
 
-
-
-
+![mpt-image-2](https://user-images.githubusercontent.com/19357189/64899668-251f9580-d652-11e9-922b-0db41149ce5c.jpg)
+[Image Source](https://www.guidedchoice.com/video/dr-harry-markowitz-father-of-modern-portfolio-theory/)
