@@ -4,7 +4,7 @@
 I highly reccomend you do not use this project as a basis for investing. This project does not aim to create a optimal trading strategy, but rather to demonstrate the feasibility of supplementing investment strategies with machine learning methodologies.
 
 ## Executive Summary
-The purpose of this project is to explore the promise of machine learning algorithms in combination with financial theory to obtain a optimal portfolio. I do this by tuning and training 3 supervised machine learning models on historical stock price data and fundamental data in order to forecast 1-year-ahead and 2-year-ahead returns. I found that the Random Forest Regressor performs best of the three algorithms in constructing an optimal portfolio. You can find a full written report in this repo.
+The purpose of this project is to explore the promise of machine learning algorithms in combination with financial theory to obtain a optimal portfolio. I do this by tuning and training 3 supervised machine learning models on historical stock price data and fundamental data in order to forecast 1-year-ahead and 2-year-ahead returns. I found that the Random Forest Regressor performs best of the three algorithms in constructing an optimal portfolio. You can find a full written report in this repo [here](https://github.com/AbinavKumar/MLStockPortfolio/tree/master/Data).
 
 ## Outline
 1. Data Set Description
@@ -74,3 +74,9 @@ With a larger dataset I would have been able to test out deep learning algorithm
 You can find the explained algorithms in my explanatory notebook.
 
 ### Explained Markowitz Portfolio Theory
+
+MPT allows investors to construct optimal portfolios with respect to their willingness to trade-off between risk and expected returns. An optimal portfolio is a portfolio that provides the greatest expected return for the lowest amount of risk. You can see what is called the efficient frontier below.
+
+
+
+
