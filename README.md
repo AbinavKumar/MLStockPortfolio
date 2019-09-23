@@ -71,7 +71,7 @@ With a larger dataset I would have been able to test out deep learning algorithm
 ## Appendix
 
 ### Explained Algorithms:
-You can find the explained algorithms in my explanatory notebook.
+You can find the explained algorithms in my explanatory notebook. (In Progress).
 
 ### Explained Markowitz Portfolio Theory
 
