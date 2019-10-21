@@ -46,7 +46,7 @@ My tuning method uses GridSearchCV from the sklearn library.
 
 ### v. Optimal Portfolio Construction
 You can find this in the Data Analysis notebook and an explanation of it in the appendix.
-We evaluate the efficacy of the model by using its predictions to construct an optimal portfolio. The construction of an optimal portfolio means we are minimizing risk and maximizing return for that level of risk. 
+We evaluate the efficacy of the model by using its predictions to construct an optimal portfolio. The construction of an optimal portfolio means we are minimizing risk and maximizing return for that level of risk. I allow the number of stocks kept in the portfolio to be set. I arbitrarly created a rule in my notebook to select the stocks and there is definitely a better way of doing this.
 This section uses the numpy library.
 
 ### vi. Model Evaluation
