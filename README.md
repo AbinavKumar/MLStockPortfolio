@@ -4,7 +4,7 @@
 I highly reccomend you do not use this project as a basis for investing. This project does not aim to create a optimal trading strategy, but rather to demonstrate the feasibility of supplementing investment strategies with machine learning methodologies.
 
 ## Executive Summary
-The purpose of this project is to explore the promise of machine learning algorithms in combination with financial theory to obtain a optimal portfolio. I do this by tuning and training 3 supervised machine learning models on historical stock price data and fundamental data in order to forecast 1-year-ahead and 2-year-ahead returns. I found that the Random Forest Regressor performs best of the three algorithms in constructing an optimal portfolio. You can find a full written report in this repo [here](https://github.com/AbinavKumar/MLStockPortfolio/tree/master/Data).
+The purpose of this project is to explore the promise of machine learning algorithms in combination with financial theory to obtain a optimal portfolio. I do this by tuning and training 3 supervised machine learning models on historical stock price data and fundamental data in order to forecast 1-year-ahead and 2-year-ahead returns. I found that the Random Forest Regressor performs best of the three algorithms in constructing an optimal portfolio. 
 
 ## Outline
 1. Data Set Description
