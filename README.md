@@ -66,7 +66,8 @@ There are several things I believe I could improve upon this project:
 - Including time aspect
 
 ### Algorithms:
-With a larger dataset I would have been able to test out deep learning algorithms and in-turn some potentially interesting ensemble methodologies. 
+- With a larger dataset I would have been able to test out deep learning algorithms and in-turn some potentially interesting ensemble methodologies.
+- I trim the optimal portfolio to select fewer stocks using a less than ideal method.
 
 ## Appendix
 
